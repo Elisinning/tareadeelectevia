@@ -4,6 +4,7 @@
 
 Josue Salas [@Josue-Salas-jimenez-git](https://github.com/Josue-Salas-jimenez),
 Maicol de la hoz[@Maicol-Delahoz-jimenez-git](https://github.com/Maicol-Delahoz-jimenez),
+Roymer villegas[@Roymer-Villegas-git](https://github.com/Roymer-Villegas),
 
 
 ## Sprint 1:
